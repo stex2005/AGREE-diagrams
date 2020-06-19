@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-10T15:10:59.323Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="VMYKCbupJ9Joi66J9Snl" version="13.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-19T10:25:19.776Z" agent="5.0 (X11)" etag="n3p_zml8Fw6GhmcsTDCT" version="13.2.6" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="2583" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2455" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3524,8 +3524,14 @@
             <mxPoint x="24.71" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tms4Cy5UnwS-kWaQxUYJ-1" value="&lt;span style=&quot;font-size: 15px&quot;&gt;+&lt;br&gt;ADD arm length&lt;br&gt;&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="tms4Cy5UnwS-kWaQxUYJ-1" value="&lt;span style=&quot;font-size: 15px&quot;&gt;+&lt;br&gt;ADD arm length&lt;br&gt;&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="780" y="2650" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="on2EBisf6s4FHACtPFKw-1" value="&lt;div&gt;+&lt;/div&gt;&lt;div&gt;ADD object&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1221" y="5360" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="on2EBisf6s4FHACtPFKw-2" value="LED&amp;nbsp; working as in definition of point" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="4970" y="6330" width="100" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
