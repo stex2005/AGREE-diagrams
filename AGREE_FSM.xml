@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-29T14:47:44.281Z" agent="5.0 (X11)" etag="w50w6hvmnFnIU3FoXz-Y" version="13.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-30T14:24:53.707Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="PrwWuuDqX4fcX58nvGDk" version="13.3.1" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="3810" dy="1552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2583" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4266,8 +4266,11 @@
         <mxCell id="_YSeC6Wx5G8pMPUtjeNP-55" value="&lt;font style=&quot;font-size: 30px&quot;&gt;&lt;b&gt;EXERCISES 6&lt;br&gt;&lt;br&gt;HAND TO MOUTH&lt;br&gt;+&lt;br&gt;OBJECTS&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-360" y="11198" width="400" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="-L6MMD7tzLXeHumpBAnM-1" value="EXO IN FREEZE" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="-L6MMD7tzLXeHumpBAnM-1" value="EXO IN FREEZE" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="500" y="3860" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pvSkX9t0ToDQblF6ShK7-1" value="init 0&lt;br&gt;init pos" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="895" y="1870" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
