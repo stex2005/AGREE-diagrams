@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-30T20:04:14.243Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="mIVWNiaG1wwbQ8l6naWK" version="13.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-01T12:03:11.584Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="E9BNJLoIeQG3nI0Fr3rJ" version="13.3.5" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="2830" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2321" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4269,8 +4269,26 @@
         <mxCell id="-L6MMD7tzLXeHumpBAnM-1" value="EXO IN FREEZE" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="500" y="3860" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pvSkX9t0ToDQblF6ShK7-1" value="init 0&lt;br&gt;init pos" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="pvSkX9t0ToDQblF6ShK7-1" value="init 0&lt;br&gt;init pos" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="920" y="1870" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mFFWaZgCOVcejCkN6tRO-1" value="MONTAGGIO&lt;br&gt;MODULI" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="310.00000000000006" y="1470" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mFFWaZgCOVcejCkN6tRO-2" value="TIPO DI CONTROLLO DOPO ROM" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="620.1800000000001" y="1270" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mFFWaZgCOVcejCkN6tRO-3" value="&lt;span style=&quot;font-size: 15px&quot;&gt;TIPO CONTROLLO + DEF SESSIONE&lt;br&gt;&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="10" y="3072" width="140" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mFFWaZgCOVcejCkN6tRO-4" value="DOPO ROM" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-12.529999999999973" y="4370" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mFFWaZgCOVcejCkN6tRO-5" value="IN&lt;br&gt;DEFINIZIONE&lt;br&gt;SESSIONE" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="650.18" y="5690" width="119.82" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="mFFWaZgCOVcejCkN6tRO-6" value="LUNGHEZZA&amp;nbsp;&lt;br&gt;BRACCIO&lt;br&gt;AVAMBRACCIO" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="330.93000000000006" y="630" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
