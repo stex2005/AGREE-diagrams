@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-01T12:03:11.584Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="E9BNJLoIeQG3nI0Fr3rJ" version="13.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-01T12:46:14.322Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="q8p6nAeI-aCezDP5tfqt" version="13.3.5" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="2321" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2830" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4289,6 +4289,9 @@
         </mxCell>
         <mxCell id="mFFWaZgCOVcejCkN6tRO-6" value="LUNGHEZZA&amp;nbsp;&lt;br&gt;BRACCIO&lt;br&gt;AVAMBRACCIO" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="330.93000000000006" y="630" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mFFWaZgCOVcejCkN6tRO-7" value="parallelo selezione punti" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="205" y="4090" width="335" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
